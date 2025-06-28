@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergio Dominguez</h1>
-<h3 align="center">Inventory system with mvc, .net core 3.1, entity framework and vuejs 2</h3>
+<h3 align="center">Inventory system with mvc, .net core 2, entity framework and vuejs 1</h3>
 
 - 🔭 I’m currently working on **SOFINV**
 
