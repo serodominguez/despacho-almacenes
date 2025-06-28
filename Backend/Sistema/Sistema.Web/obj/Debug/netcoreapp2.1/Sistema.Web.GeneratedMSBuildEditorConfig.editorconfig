@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = Sistema.Web
+build_property.ProjectDir = D:\Projects\Manaco\Proyectos\Almacenes\Backend\Sistema\Sistema.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

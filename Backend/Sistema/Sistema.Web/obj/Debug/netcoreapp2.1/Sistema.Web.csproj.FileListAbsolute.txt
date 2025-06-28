@@ -1,0 +1,457 @@
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csprojAssemblyReference.cache
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+D:\Descargas\Nueva carpeta\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Descargas\Nueva carpeta\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Descargas\Nueva carpeta\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+D:\Descargas\Nueva carpeta\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+D:\Descargas\Nueva carpeta\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+D:\Descargas\Nueva carpeta\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+D:\Descargas\Nueva carpeta\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+D:\Descargas\Nueva carpeta\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+D:\Descargas\Nueva carpeta\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+D:\Descargas\Nueva carpeta\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+D:\Descargas\Nueva carpeta\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+D:\Descargas\Nueva carpeta\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csprojAssemblyReference.cache
+D:\Descargas\Nueva carpeta\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+D:\Descargas\Nueva carpeta\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+D:\Descargas\Nueva carpeta\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+D:\Descargas\Nueva carpeta\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+D:\Descargas\Nueva carpeta\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+D:\Descargas\Nueva carpeta\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+D:\Descargas\Nueva carpeta\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+D:\Descargas\Nueva carpeta\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+D:\Descargas\Nueva carpeta\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+D:\Descargas\Nueva carpeta\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.genruntimeconfig.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Sergio\Desktop\Nueva carpeta\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Sergio\Desktop\Nueva carpeta\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\Users\Sergio\Desktop\Nueva carpeta\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\Users\Sergio\Desktop\Nueva carpeta\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\Users\Sergio\Desktop\Nueva carpeta\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\Sergio\Desktop\Nueva carpeta\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\Sergio\Desktop\Nueva carpeta\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\Nueva carpeta\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\Users\Sergio\Desktop\Nueva carpeta\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\Sergio\Desktop\Nueva carpeta\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\Sergio\Desktop\Nueva carpeta\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.genruntimeconfig.cache
+C:\Users\Sergio\Desktop\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Sergio\Desktop\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Sergio\Desktop\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\Users\Sergio\Desktop\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\Users\Sergio\Desktop\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\Users\Sergio\Desktop\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\Sergio\Desktop\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\Sergio\Desktop\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\Users\Sergio\Desktop\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\Users\Sergio\Desktop\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Sergio\Desktop\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\Sergio\Desktop\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\Sergio\Desktop\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.genruntimeconfig.cache
+C:\Users\Sergio\Desktop\Manaco\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Sergio\Desktop\Manaco\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Sergio\Desktop\Manaco\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\Users\Sergio\Desktop\Manaco\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\Users\Sergio\Desktop\Manaco\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\Users\Sergio\Desktop\Manaco\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\Sergio\Desktop\Manaco\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\Sergio\Desktop\Manaco\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\Manaco\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\Manaco\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\Manaco\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\Manaco\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\Manaco\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\Users\Sergio\Desktop\Manaco\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\Users\Sergio\Desktop\Manaco\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Sergio\Desktop\Manaco\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\Sergio\Desktop\Manaco\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\Sergio\Desktop\Manaco\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.genruntimeconfig.cache
+C:\Users\Sergio\Desktop\Manaco\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Sergio\Desktop\Manaco\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Sergio\Desktop\Manaco\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\Users\Sergio\Desktop\Manaco\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\Users\Sergio\Desktop\Manaco\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\Users\Sergio\Desktop\Manaco\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\Sergio\Desktop\Manaco\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\Sergio\Desktop\Manaco\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.dll
+C:\Users\Sergio\Desktop\Manaco\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\Users\Sergio\Desktop\Manaco\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\Manaco\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\Manaco\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\Manaco\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\Manaco\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\Manaco\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\Users\Sergio\Desktop\Manaco\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\Users\Sergio\Desktop\Manaco\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.input.cache
+C:\Users\Sergio\Desktop\Manaco\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.output.cache
+C:\Users\Sergio\Desktop\Manaco\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorCoreGenerate.cache
+C:\Users\Sergio\Desktop\Manaco\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Sergio\Desktop\Manaco\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Sergio\Desktop\Manaco\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Sergio\Desktop\Manaco\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Sergio\Desktop\Manaco\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\Users\Sergio\Desktop\Manaco\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\Sergio\Desktop\Manaco\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\Sergio\Desktop\Manaco\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.genruntimeconfig.cache
+C:\Users\Sergio\Desktop\Manaco\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+C:\Users\Sergio\Desktop\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Sergio\Desktop\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Sergio\Desktop\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\Users\Sergio\Desktop\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\Users\Sergio\Desktop\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\Users\Sergio\Desktop\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\Sergio\Desktop\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\Sergio\Desktop\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.dll
+C:\Users\Sergio\Desktop\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\Users\Sergio\Desktop\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\Users\Sergio\Desktop\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\Users\Sergio\Desktop\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.input.cache
+C:\Users\Sergio\Desktop\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.output.cache
+C:\Users\Sergio\Desktop\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorCoreGenerate.cache
+C:\Users\Sergio\Desktop\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Sergio\Desktop\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Sergio\Desktop\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Sergio\Desktop\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Sergio\Desktop\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\Users\Sergio\Desktop\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\Sergio\Desktop\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\Sergio\Desktop\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.genruntimeconfig.cache
+C:\Users\Sergio\Desktop\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+C:\Users\Sergio\Documents\Proyectos\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Sergio\Documents\Proyectos\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Sergio\Documents\Proyectos\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\Users\Sergio\Documents\Proyectos\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\Users\Sergio\Documents\Proyectos\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\Users\Sergio\Documents\Proyectos\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\Sergio\Documents\Proyectos\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\Sergio\Documents\Proyectos\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.dll
+C:\Users\Sergio\Documents\Proyectos\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\Users\Sergio\Documents\Proyectos\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.AssemblyReference.cache
+C:\Users\Sergio\Documents\Proyectos\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Documents\Proyectos\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\Users\Sergio\Documents\Proyectos\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\Users\Sergio\Documents\Proyectos\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Documents\Proyectos\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\Users\Sergio\Documents\Proyectos\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\Users\Sergio\Documents\Proyectos\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.input.cache
+C:\Users\Sergio\Documents\Proyectos\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.output.cache
+C:\Users\Sergio\Documents\Proyectos\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorCoreGenerate.cache
+C:\Users\Sergio\Documents\Proyectos\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Sergio\Documents\Proyectos\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Sergio\Documents\Proyectos\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Sergio\Documents\Proyectos\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Sergio\Documents\Proyectos\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\Users\Sergio\Documents\Proyectos\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\Sergio\Documents\Proyectos\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\Sergio\Documents\Proyectos\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.genruntimeconfig.cache
+C:\Users\Sergio\Documents\Proyectos\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.dll
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.input.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.output.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorCoreGenerate.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.genruntimeconfig.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+C:\Users\Sergio\Desktop\Nueva carpeta\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Sergio\Desktop\Nueva carpeta\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Sergio\Desktop\Nueva carpeta\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\Users\Sergio\Desktop\Nueva carpeta\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\Users\Sergio\Desktop\Nueva carpeta\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\Users\Sergio\Desktop\Nueva carpeta\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\Sergio\Desktop\Nueva carpeta\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\Sergio\Desktop\Nueva carpeta\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.dll
+C:\Users\Sergio\Desktop\Nueva carpeta\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\Users\Sergio\Desktop\Nueva carpeta\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\Nueva carpeta\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\Nueva carpeta\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\Users\Sergio\Desktop\Nueva carpeta\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.input.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.output.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorCoreGenerate.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Sergio\Desktop\Nueva carpeta\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Sergio\Desktop\Nueva carpeta\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Sergio\Desktop\Nueva carpeta\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\Users\Sergio\Desktop\Nueva carpeta\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\Sergio\Desktop\Nueva carpeta\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\Sergio\Desktop\Nueva carpeta\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.genruntimeconfig.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+C:\Users\Sergio\Desktop\Proyectos\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Sergio\Desktop\Proyectos\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Sergio\Desktop\Proyectos\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\Users\Sergio\Desktop\Proyectos\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\Users\Sergio\Desktop\Proyectos\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\Users\Sergio\Desktop\Proyectos\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\Sergio\Desktop\Proyectos\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\Sergio\Desktop\Proyectos\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.dll
+C:\Users\Sergio\Desktop\Proyectos\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\Users\Sergio\Desktop\Proyectos\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\Proyectos\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\Proyectos\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\Proyectos\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\Proyectos\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\Proyectos\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\Users\Sergio\Desktop\Proyectos\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\Users\Sergio\Desktop\Proyectos\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.input.cache
+C:\Users\Sergio\Desktop\Proyectos\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.output.cache
+C:\Users\Sergio\Desktop\Proyectos\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorCoreGenerate.cache
+C:\Users\Sergio\Desktop\Proyectos\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Sergio\Desktop\Proyectos\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Sergio\Desktop\Proyectos\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Sergio\Desktop\Proyectos\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Sergio\Desktop\Proyectos\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\Users\Sergio\Desktop\Proyectos\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\Sergio\Desktop\Proyectos\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\Sergio\Desktop\Proyectos\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.genruntimeconfig.cache
+C:\Users\Sergio\Desktop\Proyectos\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+C:\Users\Sergio\Documents\Proyectos\Almacen\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Sergio\Documents\Proyectos\Almacen\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Sergio\Documents\Proyectos\Almacen\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\Users\Sergio\Documents\Proyectos\Almacen\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\Users\Sergio\Documents\Proyectos\Almacen\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\Users\Sergio\Documents\Proyectos\Almacen\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\Sergio\Documents\Proyectos\Almacen\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\Sergio\Documents\Proyectos\Almacen\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.dll
+C:\Users\Sergio\Documents\Proyectos\Almacen\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\Users\Sergio\Documents\Proyectos\Almacen\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.AssemblyReference.cache
+C:\Users\Sergio\Documents\Proyectos\Almacen\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Documents\Proyectos\Almacen\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\Users\Sergio\Documents\Proyectos\Almacen\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\Users\Sergio\Documents\Proyectos\Almacen\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Documents\Proyectos\Almacen\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\Users\Sergio\Documents\Proyectos\Almacen\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\Users\Sergio\Documents\Proyectos\Almacen\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.input.cache
+C:\Users\Sergio\Documents\Proyectos\Almacen\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.output.cache
+C:\Users\Sergio\Documents\Proyectos\Almacen\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorCoreGenerate.cache
+C:\Users\Sergio\Documents\Proyectos\Almacen\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Sergio\Documents\Proyectos\Almacen\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Sergio\Documents\Proyectos\Almacen\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Sergio\Documents\Proyectos\Almacen\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Sergio\Documents\Proyectos\Almacen\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\Users\Sergio\Documents\Proyectos\Almacen\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\Sergio\Documents\Proyectos\Almacen\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\Sergio\Documents\Proyectos\Almacen\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.genruntimeconfig.cache
+C:\Users\Sergio\Documents\Proyectos\Almacen\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+C:\Users\Sergio\Desktop\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Sergio\Desktop\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Sergio\Desktop\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\Users\Sergio\Desktop\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\Users\Sergio\Desktop\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\Users\Sergio\Desktop\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\Sergio\Desktop\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\Sergio\Desktop\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.dll
+C:\Users\Sergio\Desktop\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\Users\Sergio\Desktop\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\Users\Sergio\Desktop\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\Users\Sergio\Desktop\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.input.cache
+C:\Users\Sergio\Desktop\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.output.cache
+C:\Users\Sergio\Desktop\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorCoreGenerate.cache
+C:\Users\Sergio\Desktop\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Sergio\Desktop\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Sergio\Desktop\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Sergio\Desktop\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Sergio\Desktop\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\Users\Sergio\Desktop\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\Sergio\Desktop\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\Sergio\Desktop\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.genruntimeconfig.cache
+C:\Users\Sergio\Desktop\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+E:\Shared\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\Shared\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.json
+E:\Shared\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+E:\Shared\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+E:\Shared\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+E:\Shared\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+E:\Shared\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+E:\Shared\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.dll
+E:\Shared\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+E:\Shared\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shared\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+E:\Shared\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+E:\Shared\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+E:\Shared\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+E:\Shared\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+E:\Shared\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.input.cache
+E:\Shared\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.output.cache
+E:\Shared\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorCoreGenerate.cache
+E:\Shared\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Shared\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Shared\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+E:\Shared\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cs
+E:\Shared\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+E:\Shared\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+E:\Shared\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+E:\Shared\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.genruntimeconfig.cache
+E:\Shared\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+E:\Shared\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.AssemblyReference.cache
+C:\Users\Sergio\Documents\Proyectos\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Sergio\Documents\Proyectos\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Sergio\Documents\Proyectos\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\Users\Sergio\Documents\Proyectos\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\Users\Sergio\Documents\Proyectos\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\Users\Sergio\Documents\Proyectos\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\Sergio\Documents\Proyectos\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\Sergio\Documents\Proyectos\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.dll
+C:\Users\Sergio\Documents\Proyectos\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\Users\Sergio\Documents\Proyectos\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.AssemblyReference.cache
+C:\Users\Sergio\Documents\Proyectos\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Documents\Proyectos\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\Users\Sergio\Documents\Proyectos\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\Users\Sergio\Documents\Proyectos\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Documents\Proyectos\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\Users\Sergio\Documents\Proyectos\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\Users\Sergio\Documents\Proyectos\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.input.cache
+C:\Users\Sergio\Documents\Proyectos\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.output.cache
+C:\Users\Sergio\Documents\Proyectos\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorCoreGenerate.cache
+C:\Users\Sergio\Documents\Proyectos\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Sergio\Documents\Proyectos\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Sergio\Documents\Proyectos\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Sergio\Documents\Proyectos\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Sergio\Documents\Proyectos\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\Users\Sergio\Documents\Proyectos\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\Sergio\Documents\Proyectos\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\Sergio\Documents\Proyectos\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.genruntimeconfig.cache
+C:\Users\Sergio\Documents\Proyectos\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+F:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.json
+F:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+F:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+F:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+F:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+F:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+F:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.dll
+F:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+F:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.AssemblyReference.cache
+F:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+F:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+F:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+F:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+F:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+F:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.input.cache
+F:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.output.cache
+F:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorCoreGenerate.cache
+F:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+F:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cs
+F:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+F:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+F:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+F:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.genruntimeconfig.cache
+F:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+E:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.json
+E:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+E:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+E:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+E:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+E:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+E:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.dll
+E:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+E:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.AssemblyReference.cache
+E:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+E:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+E:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+E:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+E:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+E:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.input.cache
+E:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.output.cache
+E:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorCoreGenerate.cache
+E:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+E:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cs
+E:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+E:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+E:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+E:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.genruntimeconfig.cache
+E:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+D:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+D:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+D:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+D:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+D:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+D:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.dll
+D:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+D:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+D:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+D:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+D:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+D:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+D:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.input.cache
+D:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.output.cache
+D:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorCoreGenerate.cache
+D:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+D:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cs
+D:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+D:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+D:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+D:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.genruntimeconfig.cache
+D:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+C:\Users\Sergio\Desktop\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.AssemblyReference.cache
+D:\Manaco\Almacenes\Backend\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.AssemblyReference.cache
